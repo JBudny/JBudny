@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Software engineer working with Angular, React, and React Native.
+
+### Check my activity
+- [Mocking RTK Query API with Mock Service Worker for testing React Native Apps](https://dev.to/jbudny/mocking-rtk-query-api-with-mock-service-worker-for-testing-react-native-apps-o3m)
+
 <!--
 **JBudny/JBudny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
