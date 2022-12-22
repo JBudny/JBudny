@@ -4,7 +4,7 @@ I'm a Software engineer working with Angular, React, and React Native.
 
 ### Check out my activity
 - [Mocking RTK Query API with Mock Service Worker for testing React Native Apps](https://dev.to/jbudny/mocking-rtk-query-api-with-mock-service-worker-for-testing-react-native-apps-o3m)  
-(featured in [React Native Newsletter - Issue #150](https://us3.campaign-archive.com/?u=78d9e37a94fa0b522939163d4&id=9c3ad2b313), [React Native Now - Issue 98](https://reactnativenow.com/issues/98))
+(featured in [React Native Newsletter - Issue #150](https://us3.campaign-archive.com/?u=78d9e37a94fa0b522939163d4&id=9c3ad2b313), React Native Now - Issue 98)
 
 <!--
 **JBudny/JBudny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
